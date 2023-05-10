@@ -51,7 +51,7 @@ https://github.com/xecte-7/Lipan/releases/
 <br>
 
 ### ABOUT AUTHOR
-> **[About Author]**<br>
+> **[About Me]**<br>
 > *Coded by Muhammad Rizky* a.k.a *XECTE-7*<br>
 > *I'm computer engineering college student at University of Borneo Tarakan that recently diagnosed with > curiosity for cyber security and programming.*
 > 
