@@ -17,6 +17,11 @@ HackerOne : *hackerone.com/xecte-7*<br>
 YouTube : *Portal-IT ID*<br>
 *#XECTE-7 #Portal_IT_ID #DariTeknikUntukDunia #HMTK_FT_UBT*
 
+## USAGE
+**[Installation]**<br>
+Clone github repository to your desired location :<br>
+> git clone https://github.com/xecte-7/Lipan
+
 ## RELEASES
 Check Lipan releases here :<br>
 https://github.com/xecte-7/Lipan/releases/
