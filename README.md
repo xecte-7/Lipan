@@ -1,7 +1,8 @@
+<a href="https://github.com/xecte-7/Lipan/releases"><img align="center" src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_help.png" alt="Lipan"></a>
+
 # LIPAN
 *Lipan is a nested url crawler to help you gather every url related from the target*
 
-<a href="https://github.com/xecte-7/Lipan/releases"><img align="center" src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_help.png" alt="Lipan"></a>
 
 ## INSTALLATION
 Clone github repository to your desired location :<br>
