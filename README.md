@@ -32,20 +32,20 @@ Run Lipan :<br>
 
 ## USAGE
 **Help menu :**<br>
+*Expl: show help menu*<br>
 
 > python lipan.py --help
 
-*Expl: show help menu*<br>
 **Basic crawling :**<br>
+*Expl: only set crawling starting point, the rest options will be set by default*<br>
 
 > python lipan.py -u "https://hackerone.com"
 
-*Expl: only set crawling starting point, the rest options will be set by default*<br>
 **Full customized crawling :**<br>
+*Expl: only focused on api.hackerone.com domain, crawling iteration is 3 and use 25 threading*<br>
 
 > python crawling.py -u "https://hackerone.com" -d "api.hackerone.com" -i 3 -t 25 -o res_hackerone.txt
 
-*Expl: only focused on api.hackerone.com domain, crawling iteration is 3 and use 25 threading*<br>
 
 ## RELEASES
 Check Lipan releases here :<br>
