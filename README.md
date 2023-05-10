@@ -19,22 +19,22 @@ YouTube : *Portal-IT ID*<br>
 
 ## INSTALLATION
 Clone github repository to your desired location :<br>
-> git clone https://github.com/xecte-7/Lipan
+> git clone https://github.com/xecte-7/Lipan<br>
 Installing required modules :<br>
-> cd Lipan/
-> python -m pip install -r requirements.txt
-Run Lipan :
-> python lipan.py --help
+> cd Lipan/<br>
+> python -m pip install -r requirements.txt<br>
+Run Lipan :<br>
+> python lipan.py --help<br>
 
 ## USAGE
 **Help menu :**<br>
-> python lipan.py --help
+> python lipan.py --help<br>
 *Expl: show help menu*<br>
 **Basic crawling :**<br>
-> python lipan.py -u "https://hackerone.com"
+> python lipan.py -u "https://hackerone.com"<br>
 *Expl: only set crawling starting point, the rest options will be set by default*<br>
 **Full customized crawling :**<br>
-> python crawling.py -u "https://hackerone.com" -d "api.hackerone.com" -i 3 -t 25 -o res_hackerone.txt
+> python crawling.py -u "https://hackerone.com" -d "api.hackerone.com" -i 3 -t 25 -o res_hackerone.txt<br>
 *Expl: only focused on api.hackerone.com domain, crawling iteration is 3 and use 25 threading*<br>
 
 ## RELEASES
