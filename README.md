@@ -64,10 +64,10 @@ https://github.com/xecte-7/Lipan/releases/
 
 ### CHANGELOG
 > - version 1.2
-> 	- project name changed to "Lipan"
+> 	- changed project name to "Lipan"
 > 	- renew source code
-> 	- can operate with more than 1 iteration
-> 	- adding thread option for faster work
+> 	- can operate with specified number of iteration
+> 	- adding thread option for faster work (min-max: 1-50)
 > 
 > - version 1.1
 > 	- renew source code
