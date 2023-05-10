@@ -1,4 +1,4 @@
-<a href="https://github.com/xecte-7/Lipan/releases"><img align="center" src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_help.png" alt="Lipan"></a>
+<a href="https://github.com/xecte-7/Lipan/releases"><img align="center" src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_banner.png" alt="Lipan"></a>
 
 # LIPAN
 *Lipan is a nested url crawler to help you gather every url related from the target*
@@ -33,7 +33,7 @@ Run Lipan :<br>
 
 > python crawling.py -u "https://hackerone.com" -d "api.hackerone.com" -i 3 -t 25 -o res_hackerone.txt
 
-## IMAGE PREVIEW
+## PREVIEW
 <details>
   <summary>Help Menu Preview</summary>
   <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_help.png" name="help-menu">
