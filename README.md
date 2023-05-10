@@ -67,7 +67,10 @@ https://github.com/xecte-7/Lipan/releases/
 > 	- changed project name to "Lipan"
 > 	- renew source code
 > 	- can operate with specified number of iteration
-> 	- adding thread option for faster work (min-max: 1-50)
+> 	- adding thread option (min-max: 1-50)
+> 	- adding domain option for filtering domain scope
+> 	- adding save output option
+> 	- adding verbosity option
 > 
 > - version 1.1
 > 	- renew source code
