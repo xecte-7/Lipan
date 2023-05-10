@@ -5,33 +5,33 @@
 
 
 ### INSTALLATION
-Clone github repository to your desired location :<br>
-
-> git clone https://github.com/xecte-7/Lipan
-
-Installing required modules :<br>
-
-> cd Lipan/<br>
-> python -m pip install -r requirements.txt
-
-Run Lipan :<br>
+> Clone github repository to your desired location :<br>
+> 
+> > git clone https://github.com/xecte-7/Lipan
+> 
+> Installing required modules :<br>
+> 
+> > cd Lipan/<br>
+> > python -m pip install -r requirements.txt
+> 
+> Run Lipan :<br>
 > python lipan.py --help
 
 ### USAGE
-**Help menu :**<br>
-*Show help menu*<br>
-
-> python lipan.py --help
-
-**Basic crawling :**<br>
-*Only set crawling starting point, the rest options will be set by default*<br>
-
-> python lipan.py -u "https://hackerone.com"
-
-**Customized crawling :**<br>
-*Domain scope focused on api.hackerone.com, crawling iteration is 3 and use 25 threading*<br>
-
-> python crawling.py -u "https://hackerone.com" -d "api.hackerone.com" -i 3 -t 25 -o res_hackerone.txt
+> **Help menu :**<br>
+> *Show help menu*<br>
+> 
+> > python lipan.py --help
+> 
+> **Basic crawling :**<br>
+> *Only set crawling starting point, the rest options will be set by default*<br>
+> 
+> > python lipan.py -u "https://hackerone.com"
+> 
+> **Customized crawling :**<br>
+> *Domain scope focused on api.hackerone.com, crawling iteration is 3 and use 25 threading*<br>
+> 
+> > python crawling.py -u "https://hackerone.com" -d "api.hackerone.com" -i 3 -t 25 -o res_hackerone.txt
 
 ### PREVIEW
 <details>
