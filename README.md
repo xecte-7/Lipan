@@ -8,7 +8,8 @@
 > Clone github repository to your desired location :<br>
 > 
 > > git clone https://github.com/xecte-7/Lipan
-> > cd Lipan/<br>
+> 
+> > cd Lipan/
 > 
 > Installing required modules (python pip) :<br>
 > 
