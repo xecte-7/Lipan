@@ -37,8 +37,12 @@ Run Lipan :<br>
 <details>
   <summary>Preview 1</summary>
   <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo1.png" name="preview-1">
+</details>
+<details>
   <summary>Preview 2</summary>
   <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo2.png" name="preview-2">
+</details>
+<details>
   <summary>Preview 3</summary>
   <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo3.png" name="preview-3">
 </details>
