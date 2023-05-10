@@ -28,22 +28,20 @@ Run Lipan :<br>
 
 > python lipan.py -u "https://hackerone.com"
 
-**Full customized crawling :**<br>
+**Customized crawling :**<br>
 *Domain scope focused on api.hackerone.com, crawling iteration is 3 and use 25 threading*<br>
 
 > python crawling.py -u "https://hackerone.com" -d "api.hackerone.com" -i 3 -t 25 -o res_hackerone.txt
 
 ## IMAGE PREVIEW
 <details>
-  <summary>Preview 1</summary>
+  <summary>Help Menu Preview</summary>
+  <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_help.png" name="help-menu">
+</details>
+<details>
+  <summary>Running Preview</summary>
   <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo1.png" name="preview-1">
-</details>
-<details>
-  <summary>Preview 2</summary>
   <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo2.png" name="preview-2">
-</details>
-<details>
-  <summary>Preview 3</summary>
   <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo3.png" name="preview-3">
 </details>
 
