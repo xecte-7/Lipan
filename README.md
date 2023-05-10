@@ -1,21 +1,7 @@
 # LIPAN
-
-<a href="https://github.com/xecte-7/Lipan/releases"><img align="center" src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_help.png" alt="Lipan"></a>
-
-## ABOUT
-**[About Lipan]**<br>
 *Lipan is a nested url crawler to help you gather every url related from the target*
 
-**[About Author]**<br>
-*Coded by Muhammad Rizky* a.k.a *XECTE-7*<br>
-*I'm computer engineering college student at University of Borneo Tarakan that recently diagnosed with curiosity for cyber security and programming.*
-
-**[Contact]**<br>
-Instagram : *@muhammad.rizky98 / @portal_it.id / @xecte_7*<br>
-Github : *github.com/xecte-7*<br>
-HackerOne : *hackerone.com/xecte-7*<br>
-YouTube : *Portal-IT ID*<br>
-*#XECTE-7 #Portal_IT_ID #DariTeknikUntukDunia #HMTK_FT_UBT*
+<a href="https://github.com/xecte-7/Lipan/releases"><img align="center" src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_help.png" alt="Lipan"></a>
 
 ## INSTALLATION
 Clone github repository to your desired location :<br>
@@ -51,6 +37,21 @@ Run Lipan :<br>
 Check Lipan releases here :<br>
 https://github.com/xecte-7/Lipan/releases/
 <br>
+
+## ABOUT
+**[About Lipan]**<br>
+*Lipan is a nested url crawler to help you gather every url related from the target*
+
+**[About Author]**<br>
+*Coded by Muhammad Rizky* a.k.a *XECTE-7*<br>
+*I'm computer engineering college student at University of Borneo Tarakan that recently diagnosed with curiosity for cyber security and programming.*
+
+**[Contact]**<br>
+Instagram : *@muhammad.rizky98 / @portal_it.id / @xecte_7*<br>
+Github : *github.com/xecte-7*<br>
+HackerOne : *hackerone.com/xecte-7*<br>
+YouTube : *Portal-IT ID*<br>
+*#XECTE-7 #Portal_IT_ID #DariTeknikUntukDunia #HMTK_FT_UBT*
 
 ## CHANGELOG
 *> version 1.2*
