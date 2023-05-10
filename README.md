@@ -4,7 +4,7 @@
 *Lipan is a nested url crawler to help you gather every url related from the target*
 
 
-## INSTALLATION
+### INSTALLATION
 Clone github repository to your desired location :<br>
 
 > git clone https://github.com/xecte-7/Lipan
@@ -17,7 +17,7 @@ Installing required modules :<br>
 Run Lipan :<br>
 > python lipan.py --help
 
-## USAGE
+### USAGE
 **Help menu :**<br>
 *Show help menu*<br>
 
@@ -33,7 +33,7 @@ Run Lipan :<br>
 
 > python crawling.py -u "https://hackerone.com" -d "api.hackerone.com" -i 3 -t 25 -o res_hackerone.txt
 
-## PREVIEW
+### PREVIEW
 <details>
   <summary>Help Menu Preview</summary>
   <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_help.png" name="help-menu">
@@ -45,12 +45,12 @@ Run Lipan :<br>
   <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo3.png" name="preview-3">
 </details>
 
-## RELEASES
+### RELEASES
 Check Lipan releases here :<br>
 https://github.com/xecte-7/Lipan/releases/
 <br>
 
-## ABOUT AUTHOR
+### ABOUT AUTHOR
 **[About Author]**<br>
 *Coded by Muhammad Rizky* a.k.a *XECTE-7*<br>
 *I'm computer engineering college student at University of Borneo Tarakan that recently diagnosed with curiosity for cyber security and programming.*
@@ -62,7 +62,7 @@ HackerOne : *hackerone.com/xecte-7*<br>
 YouTube : *Portal-IT ID*<br>
 *#XECTE-7 #Portal_IT_ID #DariTeknikUntukDunia #HMTK_FT_UBT*
 
-## CHANGELOG
+### CHANGELOG
 *> version 1.2*
 - project name changed to "Lipan"
 - renew source code
