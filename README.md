@@ -9,10 +9,14 @@
 > 
 > > git clone https://github.com/xecte-7/Lipan
 > 
-> Installing required modules :<br>
+> Installing required modules (python pip) :<br>
 > 
 > > cd Lipan/<br>
 > > python -m pip install -r requirements.txt
+> 
+> Installing required modules (linux apt) :
+> 
+> > sudo apt install python3-requests python3-bs4
 > 
 > Run Lipan :<br>
 > > python lipan.py --help
