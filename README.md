@@ -39,10 +39,7 @@ Check Lipan releases here :<br>
 https://github.com/xecte-7/Lipan/releases/
 <br>
 
-## ABOUT
-**[About Lipan]**<br>
-*Lipan is a nested url crawler to help you gather every url related from the target*
-
+## ABOUT AUTHOR
 **[About Author]**<br>
 *Coded by Muhammad Rizky* a.k.a *XECTE-7*<br>
 *I'm computer engineering college student at University of Borneo Tarakan that recently diagnosed with curiosity for cyber security and programming.*
