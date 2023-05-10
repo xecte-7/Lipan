@@ -33,6 +33,13 @@ Run Lipan :<br>
 
 > python crawling.py -u "https://hackerone.com" -d "api.hackerone.com" -i 3 -t 25 -o res_hackerone.txt
 
+** Preview :**<br>
+<details>
+  <summary>Preview</summary><details>
+  <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo1.png" name="preview-1">
+  <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo2.png" name="preview-2">
+  <img src="https://raw.githubusercontent.com/xecte-7/projects-assets/main/Lipan/version-1.2/lipan_demo3.png" name="preview-3">
+</details>
 
 ## RELEASES
 Check Lipan releases here :<br>
