@@ -1,0 +1,21 @@
+[*] Iteration 1
+[+] Found 201 urls after 1 iteration
+[*] Iteration 2
+    ➨ [!] Err: HTTPConnectionPool(host='feb.ub.ac.id', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f15382b9c10>: Failed to establish a new connection: [Errno 113] No route to host'))
+/usr/lib/python3/dist-packages/bs4/builder/__init__.py:545: XMLParsedAsHTMLWarning: It looks like you're parsing an XML document using an HTML parser. If this really is an HTML document (maybe it's XHTML?), you can ignore or filter this warning. If it's XML, you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the lxml package installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+  warnings.warn(
+    ➨ [!] Err: ('Received response with content-encoding: gzip, but failed to decode it.', error('Error -3 while decompressing data: incorrect header check'))
+[+] Found 8882 more urls after 2 iteration
+[*] Iteration 3
+    ➨ [!] Err: HTTPConnectionPool(host='beasiswa.ub.ac.id%20target=', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1539f667d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+    ➨ [!] Err: Request timeout to http://digilib.ub.ac.id/
+    ➨ [!] Err: Request timeout to http://digilib.ub.ac.id/opac/
+    ➨ [!] Err: Request timeout to http://digilib.ub.ac.id/opac/?_ga=2.239641859.1649494462.1647852645-1004830459.1633749958&_gl=1*nt72mc*_ga*MTAwNDgzMDQ1OS4xNjMzNzQ5OTU4*_ga_42B7QRKSWB*MTY0Nzg1MzUxNS4yLjEuMTY0Nzg1NDQ2Mi4w
+    ➨ [!] Err: Request timeout to http://digilib.ub.ac.id
+    ➨ [!] Err: HTTPConnectionPool(host='feb.ub.ac.id', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1538bac810>: Failed to establish a new connection: [Errno 113] No route to host'))
+    ➨ [!] Err: HTTPConnectionPool(host='feb.ub.ac.id', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f152a92b810>: Failed to establish a new connection: [Errno 113] No route to host'))
+    ➨ [!] Err: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+    ➨ [!] Err: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+    ➨ [!] Err: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+    ➨ [!] Err: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+    ➨ [!] Err: Request timeout to http://lists.ub.ac.id
